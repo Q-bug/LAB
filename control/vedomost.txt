@@ -1,0 +1,9 @@
+Ivanov Ivan Ivanovich, 5, 5, 5, 5, 5
+Petrov Ivan Vasilievich, 4, 5, 5, 5, 5
+Vasiliev Ilya Vasilievich, 4, 4, 4, 5, 5
+Otlichnik Vasya Pupkin, 2, 3, 3, 3, 3
+Dvoechnik Vasiliy Pupovickiy, 5, 5, 5, 5, 5
+Taganrog It Stolica, 3, 4, 5, 4, 3
+Moscow It Derevnya, 5, 4, 4, 5, 5
+Shewchenko Inna Konstantinovna, 2, 2, 2, 2, 2
+Zakonchilis Idei Imen, 5, 5, 5, 4, 5
