@@ -1,0 +1,10 @@
+Ivanov Ivan Ivanovich, 9773672365, 12.10.2012, 12.10.2014,0,0
+Petrov Ivan Vasilievich, 9734672311, 01/22/2008, 11/01/2011,210,200
+Vasiliev Ilya Vasilievich, 9714679805, 05.09.2010, 01.12.2012,0,2000
+Ivanov Evan Ivanovich, 9773672361, 12.10.2012, 12.10.2014,0,0
+Ivanov Avan Ivanovich, 9773672362, 12.10.2013, 12.10.2014,0,0
+Ivanov Uvan Ivanovich, 9773672363, 12.10.2014, 12.10.2014,0,0
+Ivanov Ovan Ivanovich, 9773672364, 12.10.2015, 12.10.2014,0,0
+Ivanov Qvan Ivanovich, 9773672366, 12.10.2016, 12.10.2014,0,0
+Ivanov Svan Ivanovich, 9773672367, 12.10.2017, 12.10.2014,0,0
+Ivanov Wvan Ivanovich, 9773672368, 12.10.2018, 12.10.2014,0,0

@@ -1,0 +1,10 @@
+Communication within the network, 1, 0.30, min
+SMS, 2, 0.15, #
+Connection with other mobile networks, 3, 0.50, min
+Roaming, 4, 10, min
+International tariff, 5, 50, min
+BEST tariff, 1, 50, min
+WORST tariff, 2, 50, min
+Takoy sebe tariff, 3, 50, min
+Taganrog stolica mira tariff, 4, 50, min
+To est IT stolica sorry tariff, 7, 50, min
